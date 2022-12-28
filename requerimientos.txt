@@ -1,0 +1,14 @@
+Shipper1	Plains	Enterprise	300	1.0
+Shipper1	Plains	NGL		800	1.0
+Shipper1	RoseRock	Enterprise	200	1.0
+Shipper1	NGL		Magellan	500	1.0
+Shipper1	Magellan	Enterprise	600	1.0
+Shipper2	Enterprise	Enbridge	100	1.0
+Shipper2	Plains	Enbridge	300	1.0
+Shipper2	Enterprise	RoseRock	500	1.0
+Shipper2	Enterprise	NGL		100	1.0
+Shipper2	RoseRock	NGL		200	1.0
+Shipper3	Enterprise	Plains	300	1.0
+Shipper3	Enterprise	Magellan	700	1.0
+Shipper3	NGL		Plains	700	1.0
+Shipper4	Enbridge	RoseRock	400	1.0

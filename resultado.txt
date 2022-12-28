@@ -1,0 +1,10 @@
+=============================================
+Shipper    Origin     Destination   Quantity  
+=============================================
+Shipper1   Plains     NGL            100.0    
+Shipper1   NGL        Magellan       200.0    
+Shipper2   Enterprise RoseRock       200.0    
+Shipper2   Plains     Enbridge       300.0    
+Shipper3   Enterprise Magellan       400.0    
+Shipper4   Enbridge   RoseRock       300.0    
+=============================================
